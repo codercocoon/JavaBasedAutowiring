@@ -1,11 +1,11 @@
-package com.codercocoon.spring.ioc.annotation;
+package javaspringexamples.spring.ioc.autowiring.java;
 
 import java.util.HashMap;
 import java.util.Map;
 
 /**
  * 
- * @author contact@codercocoon.com
+ * @author mounir.sahrani@gmail.com
  *
  */
 public class UserDaoInMemoryImpl implements UserDao {

@@ -1,11 +1,11 @@
-package com.codercocoon.spring.ioc.autowiring.java;
+package javaspringexamples.spring.ioc.autowiring.java;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
 
 /**
  * 
- * @author contact@codercocoon.com
+ * @author mounir.sahrani@gmail.com
  *
  */
 public class UserServiceImpl implements UserService {

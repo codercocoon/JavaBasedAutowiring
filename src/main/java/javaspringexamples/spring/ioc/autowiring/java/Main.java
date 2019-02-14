@@ -1,10 +1,10 @@
-package com.codercocoon.spring.ioc.autowiring.java;
+package javaspringexamples.spring.ioc.autowiring.java;
 
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
 /**
  * 
- * @author contact@codercocoon.com
+ * @author mounir.sahrani@gmail.com
  *
  */
 public class Main {
